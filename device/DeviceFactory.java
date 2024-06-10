@@ -22,7 +22,9 @@ public class DeviceFactory {
      * parameters that have been passed into it.
      *
      *  Using reflection, a new device is created using Device Constructor with the found information passed into it.
-     *
+     *---------------------------------------------------------------------
+     *  Nice effort - I already thought of removing commit history - Try harder :) 
+     * ---------------------------------------------------------------------
      * @param deviceIP  - IP of found device
      * @param macAddress - MAC Address of found device
      * @param hostname - name of found device
